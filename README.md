@@ -1,3 +1,19 @@
+# hack.developers - Hackaton Pubblica Amministrazione - Openshift JBoss EAP Quickstart
+
+You'll find below few quick commands for executing this sample application inside Openshift:
+1. First of all: fork this repo
+2. Make your edits on your repo
+3. Join the Hackaton #Slack channel and ask us about the activation of your github account
+4. Grab your repo url and login to: https://openshift-master.justcodeon.it via Github
+5. Once you'll create and access to a project click: "Add to project"
+6. Select JBoss EAP 7, then choose desired version
+7. Finally choose a name for your application and past your Github repo url
+8. This repo contains a lot of sample application, you'll find the one for JBoss EAP on "kitchensink" directory, you'll need also to provide the correct Git Reference: "7.0.0.GA", insert them in Openshift using the "advanced option" link
+
+That's all!
+
+For more information, please go on reading the full sample code documentation:
+
 # Red Hat JBoss Enterprise Application Platform (JBoss EAP) Quickstarts
 
 Summary: The quickstarts demonstrate Java EE 7 and a few additional technologies from the JBoss stack. They provide small, specific, working examples that can be used as a reference for your own project.
